@@ -2,8 +2,6 @@
 
 ### OBJETIVOS:
 
-``` Estudos sobre API REST feitos com NodeJs e MongoDb ```
-
 ``` Estudos sobre API REST feitos com NodeJs e MySql utilizando Knex ```
 
 ``` Web Service de treinamento para quem não quer perder tempo desenvolvendo Back-End ```
@@ -16,7 +14,7 @@
 
 ### REQUISITOS OPCIONAIS:
 
-``` Postman instalado ```
+``` Postman ou Insomnia instalado ```
 
 ### INICIALIZANDO A APLICAÇÃO
 
@@ -40,7 +38,7 @@
 
 **5 - PARA TER CERTEZA QUE DEU CERTO ABRA SEU NAVEGADOR E DIGITE:**
 
-``` http://localhost:3000 ```
+``` http://localhost:3333 ```
 
 ``` O retorno deverá ser uma página de boas vindas. ```
 
